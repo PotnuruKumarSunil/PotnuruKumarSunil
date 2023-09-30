@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Potnuru Kumar Sunil</h1>
-<h3 align="center">Cloud and DevOps enthusiast</h3>
+<h3 align="center">CloudOps and Network enthusiast</h3>
 
 <img src="https://static.vecteezy.com/system/resources/previews/011/166/144/original/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg">
 <img width="400" align="right" src="https://devopedia.org/images/article/54/7602.1513404277.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potnurukumarsunil&label=Profile%20views&color=0e75b6&style=flat" alt="potnurukumarsunil" /> </p>
 
 
-- 👯 I’m looking to work on **DevOps**
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 Ask me about **Docker, Jenkins, Linux, AWS,**
+- 👯 I’m looking to work on **Network Security and CloudOps**
+- 💬 Ask me about **Docker, Jenkins, Linux, AWS,Networking**
 
 - 📫 How to reach me **sunilpotnuru369@gmail.com**
 
